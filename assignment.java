@@ -4,9 +4,9 @@
 // public class studentinfo {
 
 //     public void displayinfo() {
-//         System.out.println("Name: Aman Sharma");
-//         System.out.println("Age: 16");
-//         System.out.println("Grade: 10th");
+//         System.out.println("Name: Arvind Sharma");
+//         System.out.println("Age: 18");
+//         System.out.println("Grade: 12th");
 //     }
 
 //     public static void main(String[] args) {
